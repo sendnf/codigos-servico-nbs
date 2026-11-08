@@ -8,4 +8,6 @@ Tabela aberta dos códigos de serviço da NFS-e Nacional, com os NBS corresponde
 
 Consulta com busca: https://sendnf.com/codigos-de-servico/
 
+Para emitir a NFS-e com esses códigos: [como emitir NFS-e no SendNF](https://sendnf.com/nfse/). Para integrar por código: [API do SendNF](https://sendnf.com/desenvolvedores/).
+
 Licença dos dados: uso livre com citação da fonte.
